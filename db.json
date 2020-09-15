@@ -10,28 +10,6 @@
       "SourceType": "INTEGRATEDPAYROLLPE",
       "JournalLines": [
         {
-          "JournalLineID": "5ea7b1b4-e2aa-44e0-93e3-da9540fc1f1f",
-          "AccountID": "a7c3c788-609a-4fe5-87cc-16085b51795a",
-          "AccountCode": "478",
-          "AccountType": "EXPENSE",
-          "AccountName": "Superannuation - Staff",
-          "Description": "Superannuation Expense",
-          "NetAmount": 905.49,
-          "GrossAmount": 905.49,
-          "TaxAmount": 0.00,
-          "TaxType": "BASEXCLUDED",
-          "TaxName": "BAS Excluded",
-          "TrackingCategories": [
-            {
-              "Name": "Employee Groups",
-              "Option": "Barangaroo",
-              "TrackingCategoryID": "d2d8f5dc-368e-4622-ae37-30ec8ac870b4",
-              "TrackingOptionID": "51eceacb-b494-453a-b1d9-1a2deed8bf6d",
-              "Options": []
-            }
-          ]
-        },
-        {
           "JournalLineID": "99469c9e-fa66-4a94-9628-7ea2757efd34",
           "AccountID": "e69524eb-5677-4c1a-8c6e-508722dd9a5f",
           "AccountCode": "850",
