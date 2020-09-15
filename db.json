@@ -1,9 +1,5 @@
 {
-  "Id": "974cf645-f009-4611-9a1b-454fa032da81",
-  "Status": "OK",
-  "ProviderName": "Xero API Previewer",
-  "DateTimeUTC": "\/Date(1600131720536)\/",
-  "Journals": [
+"Journals": [
     {
       "JournalID": "e2dbaafb-23d2-41d9-8860-709449e6a1e8",
       "JournalDate": "\/Date(1600128000000+0000)\/",
