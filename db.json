@@ -10,28 +10,6 @@
       "SourceType": "INTEGRATEDPAYROLLPE",
       "JournalLines": [
         {
-          "JournalLineID": "99469c9e-fa66-4a94-9628-7ea2757efd34",
-          "AccountID": "e69524eb-5677-4c1a-8c6e-508722dd9a5f",
-          "AccountCode": "850",
-          "AccountType": "CURRLIAB",
-          "AccountName": "Suspense",
-          "Description": "Deductions",
-          "NetAmount": -13.00,
-          "GrossAmount": -13.00,
-          "TaxAmount": 0.00,
-          "TaxType": "BASEXCLUDED",
-          "TaxName": "BAS Excluded",
-          "TrackingCategories": [
-            {
-              "Name": "Employee Groups",
-              "Option": "Sutherland",
-              "TrackingCategoryID": "d2d8f5dc-368e-4622-ae37-30ec8ac870b4",
-              "TrackingOptionID": "af8945d3-7879-4066-9b71-45edaf94b01e",
-              "Options": []
-            }
-          ]
-        },
-        {
           "JournalLineID": "8078ca37-67eb-46df-b182-740b8ac03618",
           "AccountID": "cb276b37-cf95-4587-b44b-67fad3bf268f",
           "AccountCode": "877",
