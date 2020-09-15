@@ -10,50 +10,6 @@
       "SourceType": "INTEGRATEDPAYROLLPE",
       "JournalLines": [
         {
-          "JournalLineID": "318c9bf3-c96c-40e6-a258-463ac399f739",
-          "AccountID": "9f852b48-de00-4e40-b7c8-c9b573a75b44",
-          "AccountCode": "477",
-          "AccountType": "EXPENSE",
-          "AccountName": "Wages & Salaries - Staff",
-          "Description": "Earnings",
-          "NetAmount": 7933.92,
-          "GrossAmount": 7933.92,
-          "TaxAmount": 0.00,
-          "TaxType": "BASEXCLUDED",
-          "TaxName": "BAS Excluded",
-          "TrackingCategories": [
-            {
-              "Name": "Employee Groups",
-              "Option": "Barangaroo",
-              "TrackingCategoryID": "d2d8f5dc-368e-4622-ae37-30ec8ac870b4",
-              "TrackingOptionID": "51eceacb-b494-453a-b1d9-1a2deed8bf6d",
-              "Options": []
-            }
-          ]
-        },
-        {
-          "JournalLineID": "6f1d963c-ed52-40f2-b72e-b9e13dda6e88",
-          "AccountID": "9f852b48-de00-4e40-b7c8-c9b573a75b44",
-          "AccountCode": "477",
-          "AccountType": "EXPENSE",
-          "AccountName": "Wages & Salaries - Staff",
-          "Description": "Earnings",
-          "NetAmount": 10482.32,
-          "GrossAmount": 10482.32,
-          "TaxAmount": 0.00,
-          "TaxType": "BASEXCLUDED",
-          "TaxName": "BAS Excluded",
-          "TrackingCategories": [
-            {
-              "Name": "Employee Groups",
-              "Option": "Sutherland",
-              "TrackingCategoryID": "d2d8f5dc-368e-4622-ae37-30ec8ac870b4",
-              "TrackingOptionID": "af8945d3-7879-4066-9b71-45edaf94b01e",
-              "Options": []
-            }
-          ]
-        },
-        {
           "JournalLineID": "5ea7b1b4-e2aa-44e0-93e3-da9540fc1f1f",
           "AccountID": "a7c3c788-609a-4fe5-87cc-16085b51795a",
           "AccountCode": "478",
